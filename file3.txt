@@ -1,1 +1,3 @@
 fichier 3
+Et voila une ligne a partir de la branche master
+Ceci est une ligne créé dans new_branch
